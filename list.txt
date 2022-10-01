@@ -1,0 +1,29 @@
+estofex
+European Storm Forecast Experiment
+Europe
+https://www.estofex.org/
+
+
+dwd
+German Meteorological Service (In German: Der Deutsche Wetterdienst)
+Germany
+https://www.dwd.de/EN/
+
+
+MeteoSwiss
+Federal Office of Meteorology and Climatology MeteoSwiss
+Switzerland
+https://www.meteoswiss.admin.ch/
+
+
+NWS
+National Weather Service
+USA
+https://www.weather.gov/
+
+
+Met Office
+Meteorological Office
+UK
+https://www.metoffice.gov.uk/
+GB
