@@ -15,11 +15,20 @@ http://cenaos.copeco.gob.hn/
 
 Antigua and Barbuda Meteorological Services
 http://www.antiguamet.com/
-FB https://www.facebook.com/abmetservice/
+facebook.com/abmetservice/
 2	Antigua and Barbuda	(Caribbean)
 
-3	Guyana	(South America)
-4	Dominica	(Caribbean)
+Hydromet
+Hydrometeorological Service, Ministry of Agriculture
+https://hydromet.gov.gy/
+facebook.com/HydroMetGY/
+3	Guyana (South America)
+
+Dominica Meteorological Service, Government of the Commonwealth of Dominica
+https://www.weather.gov.dm/
+facebook.com/dommet.service/
+4	Dominica (Caribbean)
+
 5	Paraguay	(South America)
 6	Nicaragua	(Central America)
 7	El Salvador	(Central America)
