@@ -1,4 +1,69 @@
 short name
 name
 url
-country
+#	country	(subregion) /# dependency or other territory
+
+
+-- 33 in Latin America and the Caribbean
+---- #	country	(subregion)
+
+CENAOS
+National Meteorological Service of Honduras (spanish Servicio Meteorológico Nacional de Honduras)
+http://cenaos.copeco.gob.hn/
+1	Honduras (Central America)
+
+Antigua and Barbuda Meteorological Services
+http://www.antiguamet.com/
+FB https://www.facebook.com/abmetservice/
+2	Antigua and Barbuda	(Caribbean)
+
+3	Guyana	(South America)
+4	Dominica	(Caribbean)
+5	Paraguay	(South America)
+6	Nicaragua	(Central America)
+7	El Salvador	(Central America)
+8	Suriname	(South America)
+9	Saint Kitts & Nevis	(Caribbean)
+10	Costa Rica	(Central America)
+11	Colombia	(South America)
+12	Argentina	(South America)
+13	Panama	(Central America)
+14	Belize	(Central America)
+15	Bahamas	(Caribbean)
+16	Uruguay	(South America)
+17	Peru	(South America)
+18	Jamaica	(Caribbean)
+19	Barbados	(Caribbean)
+20	Venezuela	(South America)
+21	Brazil	(South America)
+22	Chile	(South America)
+23	Saint Lucia	(Caribbean)
+24	Guatemala	(Central America)
+25	Ecuador	(South America)
+26	Trinidad and Tobago	(Caribbean)
+27	Mexico	(Central America)
+28	Bolivia	(South America)
+29	Haiti	(Caribbean)
+30	Cuba	(Caribbean)
+31	Grenada (Caribbean)
+32	St. Vincent & Grenadines	(Caribbean)
+33	Dominican Republic	(Caribbean)
+
+
+---- # Territory (Dependency of)
+
+1	Cayman Islands	(U.K.)
+2	Montserrat (U.K.)
+3	Sint Maarten (Netherlands)
+4	Guadeloupe (France)
+5	Turks and Caicos (U.K.)
+6	Martinique (France)
+7	Falkland Islands (U.K.)
+8	British Virgin Islands (U.K.)
+9	French Guiana (France)
+10	Puerto Rico	(U.S.A.)
+11	Caribbean Netherlands	(Netherlands)
+12	Curaçao	(Netherlands)
+13	Anguilla	(U.K.)
+14	Aruba	(Netherlands)
+15	U.S. Virgin Islands	(U.S.A.)
