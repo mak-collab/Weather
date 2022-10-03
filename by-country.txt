@@ -29,8 +29,14 @@ https://www.weather.gov.dm/
 facebook.com/dommet.service/
 4	Dominica (Caribbean)
 
+National Metorological Centre (spanish Centro Metorológico Nacional)
+https://www.meteorologia.gov.py/
 5	Paraguay	(South America)
+
+The General Directorate of Meteorology (spanish La Dirección General de Meteorología)
+https://www.ineter.gob.ni/met.html
 6	Nicaragua	(Central America)
+
 7	El Salvador	(Central America)
 8	Suriname	(South America)
 9	Saint Kitts & Nevis	(Caribbean)
