@@ -37,7 +37,10 @@ The General Directorate of Meteorology (spanish La Dirección General de Meteoro
 https://www.ineter.gob.ni/met.html
 6	Nicaragua	(Central America)
 
+Ministry of Environment and Natural Resources  (Ministerio De Medio Ambiente Y Recursos Naturales)
+https://elobservatorio.marn.gob.sv/
 7	El Salvador	(Central America)
+
 8	Suriname	(South America)
 9	Saint Kitts & Nevis	(Caribbean)
 10	Costa Rica	(Central America)
