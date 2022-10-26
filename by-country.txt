@@ -15,21 +15,70 @@ http://cenaos.copeco.gob.hn/
 
 Antigua and Barbuda Meteorological Services
 http://www.antiguamet.com/
-FB https://www.facebook.com/abmetservice/
+facebook.com/abmetservice/
 2	Antigua and Barbuda	(Caribbean)
 
-3	Guyana	(South America)
-4	Dominica	(Caribbean)
+Hydromet
+Hydrometeorological Service, Ministry of Agriculture
+https://hydromet.gov.gy/
+facebook.com/HydroMetGY/
+3	Guyana (South America)
+
+Dominica Meteorological Service, Government of the Commonwealth of Dominica
+https://www.weather.gov.dm/
+facebook.com/dommet.service/
+4	Dominica (Caribbean)
+
+National Metorological Centre (spanish Centro Metorológico Nacional)
+https://www.meteorologia.gov.py/
 5	Paraguay	(South America)
+
+The General Directorate of Meteorology (spanish La Dirección General de Meteorología)
+https://www.ineter.gob.ni/met.html
 6	Nicaragua	(Central America)
+
+Ministry of Environment and Natural Resources  (Ministerio De Medio Ambiente Y Recursos Naturales)
+https://elobservatorio.marn.gob.sv/
 7	El Salvador	(Central America)
+
+Meteorological Service Suriname (dutch Meteorologische Dienst Suriname)
+http://www.meteosur.sr/
 8	Suriname	(South America)
+
+NDMD
+Nevis Disaster Management Department
+https://ndmd.kn/
 9	Saint Kitts & Nevis	(Caribbean)
+
+IMN
+National Institute of Meteorology (spanish Instituto Meteorológico Nacional de Costa Rica)
+https://www.imn.ac.cr/en/inicio
 10	Costa Rica	(Central America)
+
+IDEAM
+Institute of Hydrology, Meteorology and Studies (spanish Instituto de Hidrología, Meteorología y Estudios)
+http://www.ideam.gov.co/
 11	Colombia	(South America)
+
+SMN
+National Metereological Service (spanish Servicio Meteorológico Nacional)
+https://www.smn.gob.ar/
 12	Argentina	(South America)
+
+ETESA
+ETESA Hydrometeorology (spanish Hidrometeorología de ETESA)
+https://www.hidromet.com.pa/en/ 
+https://www.hidromet.com.pa/es/
+IMHPA
+The Institute of Meteorology and Hydrology of Panama (spanish El Instituto de Meteorología e Hidrología de Panamá)
 13	Panama	(Central America)
+
+NMS
+National Meteorological Service of Belize
+https://nms.gov.bz/
 14	Belize	(Central America)
+
+
 15	Bahamas	(Caribbean)
 16	Uruguay	(South America)
 17	Peru	(South America)
