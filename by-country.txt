@@ -41,13 +41,44 @@ Ministry of Environment and Natural Resources  (Ministerio De Medio Ambiente Y R
 https://elobservatorio.marn.gob.sv/
 7	El Salvador	(Central America)
 
+Meteorological Service Suriname (dutch Meteorologische Dienst Suriname)
+http://www.meteosur.sr/
 8	Suriname	(South America)
+
+NDMD
+Nevis Disaster Management Department
+https://ndmd.kn/
 9	Saint Kitts & Nevis	(Caribbean)
+
+IMN
+National Institute of Meteorology (spanish Instituto Meteorológico Nacional de Costa Rica)
+https://www.imn.ac.cr/en/inicio
 10	Costa Rica	(Central America)
+
+IDEAM
+Institute of Hydrology, Meteorology and Studies (spanish Instituto de Hidrología, Meteorología y Estudios)
+http://www.ideam.gov.co/
 11	Colombia	(South America)
+
+SMN
+National Metereological Service (spanish Servicio Meteorológico Nacional)
+https://www.smn.gob.ar/
 12	Argentina	(South America)
+
+ETESA
+ETESA Hydrometeorology (spanish Hidrometeorología de ETESA)
+https://www.hidromet.com.pa/en/ 
+https://www.hidromet.com.pa/es/
+IMHPA
+The Institute of Meteorology and Hydrology of Panama (spanish El Instituto de Meteorología e Hidrología de Panamá)
 13	Panama	(Central America)
+
+NMS
+National Meteorological Service of Belize
+https://nms.gov.bz/
 14	Belize	(Central America)
+
+
 15	Bahamas	(Caribbean)
 16	Uruguay	(South America)
 17	Peru	(South America)
