@@ -1,98 +1,65 @@
-short name
-name
-url
+-- # Part of the world
 
+#	country	(subregion) / dependency or other territory, url, name, short name
 
-#	country	(subregion) /# dependency or other territory
 
 -- 33 in Latin America and the Caribbean
----- #	country	(subregion)
 
-CENAOS
-National Meteorological Service of Honduras (spanish Servicio Meteorológico Nacional de Honduras)
-http://cenaos.copeco.gob.hn/
-1	Honduras (Central America)
+1	Honduras (Central America), http://cenaos.copeco.gob.hn/, National Meteorological Service of Honduras (spanish Servicio Meteorológico Nacional de Honduras), CENAOS
 
-Antigua and Barbuda Meteorological Services
-http://www.antiguamet.com/
-facebook.com/abmetservice/
-2	Antigua and Barbuda	(Caribbean)
+2	Antigua and Barbuda	(Caribbean), http://www.antiguamet.com/ facebook.com/abmetservice/, Antigua and Barbuda Meteorological Services
 
-Hydromet
-Hydrometeorological Service, Ministry of Agriculture
-https://hydromet.gov.gy/
-facebook.com/HydroMetGY/
-3	Guyana (South America)
+3	Guyana (South America), https://hydromet.gov.gy/ facebook.com/HydroMetGY/, Hydrometeorological Service, Ministry of Agriculture, Hydromet
 
-Dominica Meteorological Service, Government of the Commonwealth of Dominica
-https://www.weather.gov.dm/
-facebook.com/dommet.service/
-4	Dominica (Caribbean)
+4	Dominica (Caribbean), https://www.weather.gov.dm/ facebook.com/dommet.service/, Dominica Meteorological Service, Government of the Commonwealth of Dominica
 
-National Metorological Centre (spanish Centro Metorológico Nacional)
-https://www.meteorologia.gov.py/
-5	Paraguay	(South America)
+5	Paraguay	(South America), https://www.meteorologia.gov.py/, National Metorological Centre (spanish Centro Metorológico Nacional)
 
-The General Directorate of Meteorology (spanish La Dirección General de Meteorología)
-https://www.ineter.gob.ni/met.html
-6	Nicaragua	(Central America)
+6	Nicaragua	(Central America), https://www.ineter.gob.ni/met.html, The General Directorate of Meteorology (spanish La Dirección General de Meteorología)
 
-Ministry of Environment and Natural Resources  (Ministerio De Medio Ambiente Y Recursos Naturales)
-https://elobservatorio.marn.gob.sv/
-7	El Salvador	(Central America)
+7	El Salvador	(Central America), https://elobservatorio.marn.gob.sv/, Ministry of Environment and Natural Resources  (Ministerio De Medio Ambiente Y Recursos Naturales)
 
-Meteorological Service Suriname (dutch Meteorologische Dienst Suriname)
-http://www.meteosur.sr/
-8	Suriname	(South America)
+8	Suriname	(South America), http://www.meteosur.sr/, Meteorological Service Suriname (dutch Meteorologische Dienst Suriname)
 
-NDMD
-Nevis Disaster Management Department
-https://ndmd.kn/
-9	Saint Kitts & Nevis	(Caribbean)
+9	Saint Kitts & Nevis	(Caribbean), https://ndmd.kn/, Nevis Disaster Management Department, NDMD
 
-IMN
-National Institute of Meteorology (spanish Instituto Meteorológico Nacional de Costa Rica)
-https://www.imn.ac.cr/en/inicio
-10	Costa Rica	(Central America)
+10	Costa Rica	(Central America), https://www.imn.ac.cr/en/inicio, National Institute of Meteorology (spanish Instituto Meteorológico Nacional de Costa Rica), IMN
 
-IDEAM
-Institute of Hydrology, Meteorology and Studies (spanish Instituto de Hidrología, Meteorología y Estudios)
-http://www.ideam.gov.co/
-11	Colombia	(South America)
+11	Colombia	(South America), http://www.ideam.gov.co/, Institute of Hydrology, Meteorology and Studies (spanish Instituto de Hidrología, Meteorología y Estudios), IDEAM
 
-SMN
-National Metereological Service (spanish Servicio Meteorológico Nacional)
-https://www.smn.gob.ar/
-12	Argentina	(South America)
+12	Argentina	(South America), https://www.smn.gob.ar/, National Metereological Service (spanish Servicio Meteorológico Nacional), SMN
 
-ETESA
-ETESA Hydrometeorology (spanish Hidrometeorología de ETESA)
-https://www.hidromet.com.pa/en/ 
-https://www.hidromet.com.pa/es/
-IMHPA
-The Institute of Meteorology and Hydrology of Panama (spanish El Instituto de Meteorología e Hidrología de Panamá)
-13	Panama	(Central America)
+13	Panama	(Central America), https://www.hidromet.com.pa/es/ https://www.hidromet.com.pa/en/, The Institute of Meteorology and Hydrology of Panama (spanish El Instituto de Meteorología e Hidrología de Panamá), IMHPA
 
-NMS
-National Meteorological Service of Belize
-https://nms.gov.bz/
-14	Belize	(Central America)
+14	Belize	(Central America), https://nms.gov.bz/, National Meteorological Service of Belize, NMS
 
+15	Bahamas	(Caribbean), https://met.gov.bs/, Bahamas Department of Meteorology
 
-15	Bahamas	(Caribbean)
-16	Uruguay	(South America)
-17	Peru	(South America)
-18	Jamaica	(Caribbean)
-19	Barbados	(Caribbean)
+16	Uruguay	(South America), https://www.inumet.gub.uy/, Uruguayan Institute of Meteorology (spanish El Instituto Uruguayo de Meteorología), Inumet
+
+17	Peru	(South America), https://www.senamhi.gob.pe/, National Service of Meteorology and Hydrology of Peru (spanish El Servicio Nacional de Meteorología e Hidrología del Perú), SENAMHI
+
+18	Jamaica	(Caribbean), http://metservice.gov.jm/, Meteorological Service of Jamaica, Met Office
+
+19	Barbados	(Caribbean), https://www.barbadosweather.org/, Barbados Meteorological Services, BMS
+
 20	Venezuela	(South America)
 21	Brazil	(South America)
 22	Chile	(South America)
 23	Saint Lucia	(Caribbean)
 24	Guatemala	(Central America)
-25	Ecuador	(South America)
+
+
+25	Ecuador	(South America), , National Institute of Meteorology and Hydrology (spanish Instituto Nacional de Meteorología e Hidrología), INAMHI
+
 26	Trinidad and Tobago	(Caribbean)
 27	Mexico	(Central America)
+
+Senamhi
+The National Meteorological and Hydrological Service (spanish El Servicio Nacional de Meteorología e Hidrología)
+http://senamhi.gob.bo/
 28	Bolivia	(South America)
+
 29	Haiti	(Caribbean)
 30	Cuba	(Caribbean)
 31	Grenada (Caribbean)
