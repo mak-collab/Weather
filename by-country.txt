@@ -43,22 +43,25 @@
 
 19	Barbados	(Caribbean), https://www.barbadosweather.org/, Barbados Meteorological Services, BMS
 
-20	Venezuela	(South America)
-21	Brazil	(South America)
-22	Chile	(South America)
-23	Saint Lucia	(Caribbean)
-24	Guatemala	(Central America)
+20	Venezuela	(South America), http://www.inameh.gob.ve/web/ https://twitter.com/INAMEH, National Institute of Meteorology and Hydrology (spanish Instituto Nacional de Meteorología e Hidrología), INAMEH
 
+21	Brazil	(South America), https://portal.inmet.gov.br/, National Institute of Meteorology (portuguese Instituto Nacional de Meteorologia), INMET
+
+22	Chile	(South America), http://www.meteochile.cl/ https://twitter.com/meteochile_dmc https://www.facebook.com/meteochiledmc https://www.flickr.com/photos/meteochile https://www.instagram.com/meteochile/, Meteorological Directorate of Chile (spanish Dirección Meteorológica de Chile), MeteoChile
+
+23	Saint Lucia	(Caribbean), https://met.gov.lc/, Saint Lucia Meteorological Services
+
+24	Guatemala	(Central America), https://insivumeh.gob.gt/, National Institute of Seismology, Volcanology, Meteorology and Hydrology (spanish Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrología), INSIVUMEH
 
 25	Ecuador	(South America), , National Institute of Meteorology and Hydrology (spanish Instituto Nacional de Meteorología e Hidrología), INAMHI
 
-26	Trinidad and Tobago	(Caribbean)
+26	Trinidad and Tobago	(Caribbean), https://www.metoffice.gov.tt/, Trinidad & Tobago Meteorological Service, TTMS
+
+
+
 27	Mexico	(Central America)
 
-Senamhi
-The National Meteorological and Hydrological Service (spanish El Servicio Nacional de Meteorología e Hidrología)
-http://senamhi.gob.bo/
-28	Bolivia	(South America)
+28	Bolivia	(South America), http://senamhi.gob.bo/, The National Meteorological and Hydrological Service (spanish El Servicio Nacional de Meteorología e Hidrología), Senamhi
 
 29	Haiti	(Caribbean)
 30	Cuba	(Caribbean)
