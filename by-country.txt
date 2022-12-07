@@ -59,14 +59,18 @@
 
 
 
-27	Mexico	(Central America)
+27	Mexico	(Central America), https://smn.conagua.gob.mx/es/   ( https://twitter.com/conagua_clima, https://es.wikipedia.org/wiki/Servicio_Meteorol%C3%B3gico_Nacional_(M%C3%A9xico) ), National Weather Service (spanish Servicio Meteorológico Nacional), SMNmx
 
 28	Bolivia	(South America), http://senamhi.gob.bo/, The National Meteorological and Hydrological Service (spanish El Servicio Nacional de Meteorología e Hidrología), Senamhi
 
-29	Haiti	(Caribbean)
-30	Cuba	(Caribbean)
-31	Grenada (Caribbean)
+29	Haiti	(Caribbean), https://www.meteo-haiti.gouv.ht/, Hydro-Meteorological Unit of Haiti, (french Unité HydroMétéorologique d'Haïti), U.H.M
+
+30	Cuba	(Caribbean), http://www.insmet.cu/ ( https://twitter.com/insmetc, https://www.facebook.com/Insmetamacitma/, https://es.wikipedia.org/wiki/Instituto_de_Meteorolog%C3%ADa_(Cuba) ), Institute of Meteorology (spanish Instituto de Meteorología de la República de Cuba), INSMET
+
+31	Grenada (Caribbean) http://nadma.gd/ ( https://www.facebook.com/nadmagnd ), National Disaster Management Agency, NaDMA
+
 32	St. Vincent & Grenadines	(Caribbean)
+
 33	Dominican Republic	(Caribbean)
 
 
